@@ -1,0 +1,19 @@
+{
+  "name": "try-rxjs-in-react",
+  "version": "0.1.0",
+  "description": "currently we use `rxjs` for asynchronous chaining in backend(nodejs with express), in react my goal is use for stat management, event things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungai/try-rxjs-in-react.git"
+  },
+  "author": "jungai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungai/try-rxjs-in-react/issues"
+  },
+  "homepage": "https://github.com/jungai/try-rxjs-in-react#readme"
+}
